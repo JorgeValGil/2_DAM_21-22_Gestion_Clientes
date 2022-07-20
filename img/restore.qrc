@@ -1,0 +1,5 @@
+<RCC>
+  <qresource prefix="restore">
+    <file>restore.png</file>
+  </qresource>
+</RCC>

@@ -1,0 +1,5 @@
+<RCC>
+  <qresource prefix="avisoexcel">
+    <file>avisoexcel.png</file>
+  </qresource>
+</RCC>

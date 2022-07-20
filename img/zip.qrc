@@ -1,0 +1,5 @@
+<RCC>
+  <qresource prefix="zip">
+    <file>zip.png</file>
+  </qresource>
+</RCC>
